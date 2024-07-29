@@ -1,0 +1,22 @@
+1 2 3 4 5 6 7 8 9
+
+
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+4       3       1           0       5 7
+
+
+
+A => 4
+E => 3
+I => 1 
+O => 0
+S => 5 
+T => 7
+
+
+#case failed 1 : 
+     encoder to decoder 
+ 
+
+
